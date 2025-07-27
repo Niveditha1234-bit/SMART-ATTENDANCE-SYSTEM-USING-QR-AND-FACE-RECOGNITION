@@ -1,6 +1,6 @@
 SMART ATTENDANCE SYSTEM USING QR AND FACE RECOGNITION
 
-The Smart Attendance System integrates QR code scanning and face recognition to automate attendance tracking in educational institutions and workplaces. Traditional methods like manual attendance or RFID cards are prone to errors and proxies. This system ensures accuracy, efficiency, and security by verifying both a QR code generated per student and face recognition authentication to mark attendance.<img width="8252" height="105" alt="image" src="https://github.com/user-attachments/assets/e27f831a-7531-4df7-a471-b0cd7cab2b88" />
+The Smart Attendance System integrates QR code scanning and face recognition to automate attendance tracking in educational institutions and workplaces. Traditional methods like manual attendance or RFID cards are prone to errors and proxies. This system ensures accuracy, efficiency, and security by verifying both a QR code generated per student and face recognition authentication to mark attendance.
 
 This system uses a dual authentication process:
 -QR Code-based Check-in – Each student scans a unique QR code generated for the session.
